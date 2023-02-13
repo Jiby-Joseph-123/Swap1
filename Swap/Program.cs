@@ -12,7 +12,7 @@
             a = b;
             b = temp;
             Console.WriteLine(" After swapping a: "+ a);
-            Console.WriteLine("After swapping b: " + b );
+            Console.WriteLine("After swapping b= " + b );
 
         }
     }
